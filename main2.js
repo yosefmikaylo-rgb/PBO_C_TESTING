@@ -1,1 +1,1 @@
-console.log(`ngik nguk`)
+console.log(`ngik nuk`)
